@@ -1,0 +1,1 @@
+"""StafIt macroeconomics reporting package."""
